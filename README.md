@@ -7,7 +7,6 @@ Recent College Graduate and avid Game Develeoper living in Ireland. Currently se
 - :godmode: Unity
 - 🎨 Pixel Art / Drawing
 - :neckbeard: C#
-- 🎼Amateur Musician
 
 ## Where to find me
 <p>
