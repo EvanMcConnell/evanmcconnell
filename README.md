@@ -1,6 +1,6 @@
 ## Hi, I'm Evan! 👋
 
-Recent College Graduate and avid Game Develeoper living in Ireland. Currently seeking employment in the industry. Although I take part in game jams with them, I'm working on an ongoing [project](https://github.com/Entertainment-Systems/Employee-of-the-Month) with some of my [fellow college graduates](https://github.com/Entertainment-Systems).
+Recent College Graduate and avid Game Developer living in Ireland. Currently seeking employment in the industry. Although I take part in game jams with them, I'm working on an ongoing [project](https://github.com/Entertainment-Systems/Employee-of-the-Month) with some of my [fellow college graduates](https://github.com/Entertainment-Systems).
 
 ## Skills
 
