@@ -10,7 +10,7 @@ Recent College Graduate and avid Game Developer living in Ireland. Currently see
 
 ## Portfolio Reel
 <p>
-  <a href="https://youtu.be/KM-9IEqTos8">
+  <a href="https://youtu.be/KM-9IEqTos8" target="_blank">
     <img width="64" src="https://pngimg.com/uploads/youtube/youtube_PNG102352.png" />
   </a>
 </p>
