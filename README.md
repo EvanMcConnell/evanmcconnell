@@ -8,6 +8,13 @@ Recent College Graduate and avid Game Developer living in Ireland. Currently see
 - 🎨 Pixel Art / Drawing
 - :neckbeard: C#
 
+## Portfolio Reel
+<p>
+  <a href="https://youtu.be/KM-9IEqTos8">
+    <img width="64" src="https://pngimg.com/uploads/youtube/youtube_PNG102352.png" />
+  </a>
+</p>
+
 ## Where to find me
 <p>
   <a href="https://www.instagram.com/username_textfield">
@@ -20,6 +27,8 @@ Recent College Graduate and avid Game Developer living in Ireland. Currently see
     <img width="64" src="https://static.itch.io/images/itchio-textless-white.svg" />
   </a>
 </p>
+
+
 <!--
 **EvanMcConnell/evanmcconnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
